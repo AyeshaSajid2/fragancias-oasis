@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.company.fragancias_oasis.app-merged_res-58:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.company.fragancias_oasis.app-main-52:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.company.fragancias_oasis.app-merged_res-58:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.company.fragancias_oasis.app-main-52:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.company.fragancias_oasis.app-merged_res-58:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.company.fragancias_oasis.app-main-52:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.company.fragancias_oasis.app-merged_res-58:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.company.fragancias_oasis.app-main-52:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-merged_res-58:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laptop\\.gradle\\daemon\\8.3\\com.company.fragancias_oasis.app-main-52:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.company.fragancias_oasis.app-merged_res-58:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.company.fragancias_oasis.app-main-52:/mipmap-xxxhdpi/launcher_icon.png"
+    }
+]

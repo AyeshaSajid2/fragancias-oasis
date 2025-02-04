@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837066592546",
+    "project_id": "nurture-5d1b7",
+    "storage_bucket": "nurture-5d1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837066592546:android:9678642c77b0482a11d57b",
+        "android_client_info": {
+          "package_name": "com.company.fragancias_oasis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqZIKzAUU0ZPB-u0X3lORuu_90RbPjrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837066592546:android:56a19f7634d34bfa11d57b",
+        "android_client_info": {
+          "package_name": "com.example.oasis_fragrances"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqZIKzAUU0ZPB-u0X3lORuu_90RbPjrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ D:\\flutter\\Fragancias_Oasis\\.dart_tool\\flutter_build\\91bea1c5c38eafd63ec6a80498273d15\\native_assets.yaml: 
